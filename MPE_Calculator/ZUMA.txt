@@ -1,0 +1,6 @@
+0.34,(FN08) Faded Character,
+0.128,(FN15) Handler's Error,
+0.2,(FN26) Extraneous Material,
+0.2,(FN50) Package Locate,
+0.13,(FN97) Package Scratch,
+100,Others
